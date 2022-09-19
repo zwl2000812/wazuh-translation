@@ -1,0 +1,9 @@
+{
+    "paths": {
+      "wazuh": "." 
+    },
+    "exclude": [
+    ],
+    "translations": ["translations/zh-CN.json"
+    ]
+  }
